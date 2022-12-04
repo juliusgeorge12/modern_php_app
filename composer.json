@@ -1,0 +1,21 @@
+{
+    "name": "julius_george/modern_php_app",
+    "description": "this project is built to demonstrate how to build a modern php restful app",
+    "type": "project",
+    "require": {
+         "composer": "^2.3"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "JuliusGeorge\\ModernPhpApp\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "julius george",
+            "email": "julius.business12@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta"
+}
