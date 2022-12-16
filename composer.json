@@ -8,7 +8,8 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "JuliusGeorge\\ModernPhpApp\\": "app/"
+            "app\\": "app/" ,
+            "component\\" : "vendor/component/"
         }
     },
     "authors": [
